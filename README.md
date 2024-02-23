@@ -1,6 +1,4 @@
-# EnemVerso
 
-Este repositório contém a base de dados utilizada no projeto EnemVerso
 
 
 ## Documentação da API
