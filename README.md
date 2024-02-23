@@ -27,7 +27,8 @@ Este repositório contém a base de dados utilizada no projeto EnemVerso
 | `id`      | `string` | **Obrigatório**. O ID do item que você quer |
 
 #### add(num1, num2)
-
+Open
+EnemVerso
 Recebe dois números e retorna a sua soma.
 
 
@@ -61,3 +62,5 @@ Resposta 2
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+Open
+EnemVerso
