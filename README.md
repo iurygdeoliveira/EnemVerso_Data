@@ -1,4 +1,4 @@
-# EnemVerso
+# EnemVerso: Espanhol
 
 Este repositório contém a base de dados utilizada no projeto EnemVerso
 
@@ -30,7 +30,7 @@ Este repositório contém a base de dados utilizada no projeto EnemVerso
 Recebe dois números e retorna a sua soma.
 
 
-## Demonstração
+## Demonstração do espanhol
 
 Insira um gif ou um link de alguma demonstração
 
