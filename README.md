@@ -1,3 +1,5 @@
+# 2 (segunda) Alteração Da Materia espanhol, de Paulo Berg e Iasmim.
+
 # EnemVerso
 
 Este repositório contém a base de dados utilizada no projeto EnemVerso
@@ -32,7 +34,6 @@ Recebe dois números e retorna a sua soma.
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
 
 
 ## Autores
