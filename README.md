@@ -32,7 +32,7 @@ Recebe dois números e retorna a sua soma.
 
 ## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+Teste de auteração para enviar ao professor. 
 
 
 ## Autores
