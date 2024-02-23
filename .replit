@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 run = "cowsay Configure me!"
 
 [nix]
 channel = "stable-23_11"
+=======
+hidden=[".config"]
+modules = ["web:v2-20230623-0b7a606"]
+
+[deployment]
+publicDir = "/"
+deploymentTarget = "static"
+>>>>>>> af4e1da7c671ccb5edd1001e2ca2bee3b2165638
