@@ -1,4 +1,5 @@
 Demonstrando atualização
+Um aluno está modificando o sistema
 # EnemVerso
 
 Este repositório contém a base de dados utilizada no projeto EnemVerso
