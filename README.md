@@ -1,7 +1,4 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
+Demonstrando atualização
 # EnemVerso
 
 Este repositório contém a base de dados utilizada no projeto EnemVerso
@@ -30,7 +27,8 @@ Este repositório contém a base de dados utilizada no projeto EnemVerso
 | `id`      | `string` | **Obrigatório**. O ID do item que você quer |
 
 #### add(num1, num2)
-
+Open
+EnemVerso
 Recebe dois números e retorna a sua soma.
 
 
@@ -64,3 +62,5 @@ Resposta 2
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+Open
+EnemVerso
